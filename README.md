@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on:
 
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LINQeee&repo=HudeemFrontend&theme=dark)](https://github.com/LINQeee/HudeemFrontend)     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LINQeee&repo=hudeemBackend&theme=dark)](https://github.com/LINQeee/hudeemBackend)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LINQeee&repo=HudeemFrontend&theme=dark)](https://github.com/LINQeee/HudeemFrontend)&ensp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LINQeee&repo=hudeemBackend&theme=dark)](https://github.com/LINQeee/hudeemBackend)
 - ✨ My stats:
 
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LINQeee&layout=compact&theme=dark)
