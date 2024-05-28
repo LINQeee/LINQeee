@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on:
 
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LINQeee&repo=droplet&theme=dark)](https://github.com/LINQeee/droplet)&ensp;
+    Secret project in the private repository: DROPLET💧
 - ✨ My stats:
 
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LINQeee&layout=compact&theme=dark)
