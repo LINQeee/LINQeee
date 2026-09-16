@@ -1,4 +1,5 @@
 {
+  "username": "LINQeee",
   "widgets": [
     {
       "widgetId": "header",
@@ -11570,7 +11571,15 @@
         "width": 536,
         "height": 160
       },
-      "config": {},
+      "config": {
+        "hideLangsArr": [
+          "CSS",
+          "HTML"
+        ],
+        "hideLangs": "CSS,HTML",
+        "animationType": "fade-in",
+        "animationPreviewKey": 3
+      },
       "locked": false,
       "visible": true,
       "zIndex": 4,
@@ -11694,5 +11703,6 @@
     "themeMode": "dark",
     "templateStyle": "native"
   },
-  "templateId": "terminal"
+  "templateId": "terminal",
+  "profileSlug": "default"
 }
