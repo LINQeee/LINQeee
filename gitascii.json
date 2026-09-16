@@ -1,4 +1,5 @@
 {
+  "username": "LINQeee",
   "widgets": [
     {
       "widgetId": "header",
@@ -11,7 +12,9 @@
         "width": 800,
         "height": 90
       },
-      "config": {},
+      "config": {
+        "showTitle": true
+      },
       "locked": false,
       "visible": true,
       "zIndex": 1,
@@ -11692,5 +11695,6 @@
     "themeMode": "dark",
     "templateStyle": "native"
   },
-  "templateId": "terminal"
+  "templateId": "terminal",
+  "profileSlug": "default"
 }
