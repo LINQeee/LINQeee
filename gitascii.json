@@ -11546,7 +11546,7 @@
         "dividerColor": "#30363d",
         "animationType": "typewriter",
         "animationPreviewKey": 6,
-        "showGists": false,
+        "showGists": true,
         "showAchievements": false,
         "showJoined": false,
         "showStatus": false,
